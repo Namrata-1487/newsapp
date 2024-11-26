@@ -1,0 +1,8 @@
+#navbarSupportedContent {
+  scroll-behavior: smooth;
+}
+nav {
+  height: 100vh;
+  position: fixed;
+  overflow-y: hidden;
+}
