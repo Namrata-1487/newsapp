@@ -22,7 +22,7 @@ export const Navbar = ({ setCategory }) => {
             </div>
           </li>
           <li className="nav-item">
-            <div className="nav-link" >
+            <div className="nav-link">
               general
             </div>
           </li>
